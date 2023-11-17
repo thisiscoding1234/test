@@ -2,5 +2,4 @@
 
 a website
 
-
-<!--- <script src="https://use.fortawesome.com/1ce05b4b.js"></script> --->
+<!--- <script src="https://kit.fontawesome.com/049529442a.js" crossorigin="anonymous"></script> --->
