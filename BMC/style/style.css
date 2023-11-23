@@ -92,3 +92,9 @@ tr, td {
 	font-size: larger;
 }
 
+tr {
+	border-top-width: 0px ;
+	border-bottom-width: 0px ;
+	border-left-width: 10px ;
+	border-right-width: 10px ;
+}
